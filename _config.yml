@@ -4,3 +4,4 @@
 name: tiktik mancan
 markdown: kramdown
 timezone: Japan
+permalink: /blog/:year/:month/:day/:title
