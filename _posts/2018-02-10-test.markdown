@@ -1,8 +1,10 @@
 ---
 layout: single
 title:  "This is a test"
-date:   2018-02-11 23:26:16 +0900
+date:   2018-02-10 23:26:16 +0900
 categories: category1
+header:
+  teaser: /assets/images/gears.jpeg
 ---
 Test
 
